@@ -8,7 +8,7 @@ let chatChannel = "chat";
 let colorChannel = "color";
 
 /* Drawing Section */
-
+    
 const mspaint = {
   sketchSelector: "",
   paintSelector: "",
